@@ -1,0 +1,87 @@
+﻿body.main
+{
+    margin: 0px;
+        
+}
+.MeCell
+{
+    width: 10%;
+    height: 10%;
+    font-size: 80%;
+    text-align: center;
+}
+
+.LLL2
+{
+    border-right: darkgray solid;
+ /*   border-top: darkgray solid;  */
+    border-left: darkgray solid;
+    border-bottom: darkgray solid;
+}
+
+.LLR
+{
+    border-right: thin solid;
+    border-top: thin solid;
+    border-left: thin solid;
+    border-bottom: thin solid;
+	
+}
+.Itogo
+{
+    font-size: 140%;  
+    color: maroon;
+}
+.Zag
+{
+    font-size: 88%;  
+    color: maroon;
+}
+input.btn {
+    background-color: #e0e0e0; 
+    font-size:80%;
+}
+input.btn2
+{
+	background-color: #ffffff;
+	font-size: 80%;
+	border: none;
+	HEIGHT: 22px;
+	width: 22px;
+}
+.Mt
+{
+    font-size: 80%;  
+    color: maroon;
+}
+
+.RUTXT
+{font-family: 'Palatino Linotype', 'Royal Times New Roman', 'Arial Unicode MS', 'Royal Arial', 'Code2000', 'Lucida Sans Unicode', 'XSerif Unicode', serif, 'MS UI Gothic';}    
+.RUTXTob
+{font-family: 'Palatino Linotype', 'Royal Times New Roman', 'Arial Unicode MS', 'Royal Arial', 'Code2000', 'Lucida Sans Unicode', 'XSerif Unicode', serif, 'MS UI Gothic';
+  font-size: 100%;  
+    }    
+.RUTXTF
+{
+    font-family: 'Palatino Linotype' , 'Royal Times New Roman' , 'Arial Unicode MS' , 'Royal Arial' , 'Code2000' , 'Lucida Sans Unicode' , 'XSerif Unicode', serif, 'MS UI Gothic';
+    font-size: 130%;
+    width: 63px;
+    height: 20px;
+    position: absolute;
+    border-right: silver 1px solid;
+    border-top: silver 1px solid;
+    border-left: silver 1px solid;
+    border-bottom: silver 1px solid;
+    line-height:100%;
+    
+}    
+
+.test
+{
+    background-color: whitesmoke;
+    border-right: blue thick double;
+    border-top: blue thick double;
+    border-left: blue thick double;
+    border-bottom: blue thick double;
+    height: 20%;
+}
